@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on Gitbut or any volentire work
 - 📫 How to reach me (Whatsapp - 9755506362)
 - ⚡ Fun fact: Life is easy when you understand its meant to be hard.
+-  Certifications- Infosys Springboard Jawascript
+ [download](https://github.com/user-attachments/assets/addac567-f328-40f8-ae64-de62417bf1a7)
 
 <!---
 btwGaurav/btwGaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
