@@ -5,11 +5,8 @@
 - 📫 How to reach me (Whatsapp - 9755506362)
 - ⚡ Fun fact: Life is easy when you understand its meant to be hard.
 -  Certifications- Infosys Springboard Jawascript
+![download](https://github.com/user-attachments/assets/52ae583e-85e7-4014-91dd-dac5e145b61c)
 
-
-
-
- ![Screenshot 2024-11-12 111654](https://github.com/user-attachments/assets/3a01598e-bc64-4485-bf76-c9449bf54029)
 
 <!---
 btwGaurav/btwGaurav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
