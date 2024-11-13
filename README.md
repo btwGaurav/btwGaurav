@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Gitbut or any volentire work
 - 📫 How to reach me (Whatsapp - 9755506362)
 - ⚡ Fun fact: Life is easy when you understand its meant to be hard.
--  Certifications- Infosys Springboard Jawascript
+-   Certifications- Infosys Springboard Jawascript
 -  ![download](https://github.com/user-attachments/assets/a4150860-6eb6-4f26-9053-8095af53b7ff)
 
 
