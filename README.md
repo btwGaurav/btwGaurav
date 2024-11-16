@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **Life becomes easy when you look for opportunities in every corner.**
 
+- ⚡ Another Fun fact *I also go live on youtube for gaming and productivity .**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@senger__gaurav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@senger__gaurav" height="30" width="40" /></a>
