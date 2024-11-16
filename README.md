@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React/JawaScript**
 
-- 💬 Ask me about **Jawascrip , HTML ,CSS**
+- 💬 Ask me about **JawaScrip , HTML ,CSS**
 
 - 📫 How to reach me **Gauravsingh.gs.gs123@gmail.com**
 
