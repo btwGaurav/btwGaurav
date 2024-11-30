@@ -30,5 +30,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btwgaurav&" alt="btwgaurav" /></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
 </p>
