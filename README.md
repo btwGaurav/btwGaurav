@@ -27,7 +27,11 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btwgaurav&show_icons=true&locale=en&layout=compact" alt="btwgaurav" /></p>
 
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btwgaurav&" alt="btwgaurav" /></p>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
