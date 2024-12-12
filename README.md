@@ -7,13 +7,15 @@
 
 - 🌱 I’m currently learning **React/JawaScript**
 
-- 💬 Ask me about **JawaScrip , HTML ,CSS**  Infosys certificaton - (https://shorturl.at/cvKCI)
+- 💬 Ask me about **JawaScrip , HTML ,CSS**  
 
 - 📫 How to reach me **Gauravsingh.gs.gs123@gmail.com**
 
 - ⚡ Fun fact **Life becomes easy when you look for opportunities in every corner.**
 
-- ⚡ Another Fun fact *I also go live on youtube for gaming and productivity .**
+- ⚡ Another Fun fact *I also go live on youtube for gaming and productivity .*
+
+- Infosys certificaton - (https://shorturl.at/cvKCI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
