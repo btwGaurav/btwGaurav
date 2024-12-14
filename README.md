@@ -1,56 +1,69 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F8E2CF&height=180&section=header&text=welcome&fontSize=90&fontColor=E5D1BD&&fontAlignY=35&desc=To_My%20github%20profile&descSize=20&descAlign=70)
 
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Anshuman singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Anshuman Singh
+
+Welcome to my GitHub profile!  
+I'm a **passionate frontend developer** from India, exploring the world of web development as a student. I love learning, coding, and sharing my knowledge.
+
+---
+
+## 🌟 About Me
+
+- 🔭 Currently learning **React** and **JavaScript**.
+- 💬 Ask me about **HTML**, **CSS**, and **JavaScript**.
+- 🎮 I occasionally go live on YouTube for **gaming** and **productivity** content.
+- 🌟 Fun fact: **Life becomes easy when you look for opportunities in every corner.**
+- 🎓 Infosys Certification: [View Certification](https://shorturl.at/cvKCI)
+
+---
+
+## 📈 GitHub Stats
+
+![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=btwGaurav&theme=dark&count_private=true)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btwGaurav&layout=compact&theme=dark)
+
+---
+
+## 🏆 Achievements
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btwgaurav" alt="btwgaurav" /></a> </p>
 
-- 🌱 I’m currently learning **React/JawaScript**
+---
 
-- 💬 Ask me about **JawaScrip , HTML ,CSS**  
+## 💻 Languages and Tools
 
-- 📫 How to reach me **Gauravsingh.gs.gs123@gmail.com**
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-528DD7?logo=font-awesome&logoColor=white&style=for-the-badge)
 
-- ⚡ Fun fact **Life becomes easy when you look for opportunities in every corner.**
+---
 
-- ⚡ Another Fun fact *I also go live on youtube for gaming and productivity .*
+## 🌐 Connect with Me
 
-- Infosys certificaton - (https://shorturl.at/cvKCI)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yourusername)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/yourusername)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/yourphonenumber)
 
-<h1 align="left">Connect with me:</h1>
+---
 
-[![Isntagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_btw_gaurav/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
-[![Linkedin](	https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
-[![Linkedin](	https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
-[![Linkedin](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://www.linkedin.com/in/daniel-tenório-6471b0244/)
+## 🖼️ Random Dev Quote
 
-
-
-<h1 align="left">Language and Tools:</h1>
-
-[![Isntagram](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![Isntagram](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![Isntagram](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-[![Isntagram](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
-[![Isntagram](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]()
-[![Isntagram](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)]()
-[![Isntagram](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)]()
-
-[![Isntagram](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Isntagram](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
-[![Isntagram](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)]()
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btwgaurav&show_icons=true&locale=en&layout=compact" alt="btwgaurav" /></p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=btwgaurav&" alt="btwgaurav" /></p>
-
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 180px> </h2>
+
+---
+
+## 🌟 Motto
+**Eat, Sleep, Code, Repeat**
+
+---
+
+Thank you for visiting my profile! Feel free to connect or collaborate on any project.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
