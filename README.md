@@ -54,12 +54,14 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 ## 🖼️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 180px> </h2>
 
 ---
 
 ## 🌟 Motto
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="150px"> <br>
 **Eat, Sleep, Code, Repeat**
+
+
 
 ---
 
