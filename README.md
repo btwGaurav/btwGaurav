@@ -45,7 +45,7 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 ## 🌐 Connect with Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_btw_gaurav)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/btw_gaurav)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/gaurav-singh-941271339/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white&style=for-the-badge)](https://t.me/+919755506362)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge)](https://wa.me/9755506362)
 [![X](https://img.shields.io/badge/X-YourHandle-000000?style=flat&logo=x&logoColor=white)](https://x.com/btw__Gaurav)
