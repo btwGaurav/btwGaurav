@@ -66,7 +66,7 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 
 ---
 
-Thank you for visiting my profile! Feel free to connect or collaborate on any project and grow together.
+Thank you for visiting my profile! Feel free to connect or collaborate on any project.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
