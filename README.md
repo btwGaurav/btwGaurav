@@ -39,6 +39,13 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)
 ![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-528DD7?logo=font-awesome&logoColor=white&style=for-the-badge)
+<div class="inline-flex items-center px-3 py-1 text-sm font-medium text-white bg-gray-800 rounded-full">
+  <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 mr-2" viewBox="0 0 24 24" fill="currentColor">
+    <path d="M12 0C5.373 0 0 5.373 0 12c0 5.303 3.438 9.8 8.207 11.387.6.111.793-.26.793-.578v-2.234c-3.338.724-4.042-1.611-4.042-1.611-.546-1.387-1.333-1.757-1.333-1.757-1.089-.744.083-.729.083-.729 1.205.084 1.839 1.236 1.839 1.236 1.07 1.834 2.809 1.304 3.495.996.108-.775.418-1.305.762-1.605-2.665-.303-5.467-1.332-5.467-5.93 0-1.31.468-2.382 1.235-3.221-.123-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.3 1.231a11.508 11.508 0 0 1 3.006-.404c1.02.005 2.047.137 3.006.404 2.29-1.553 3.296-1.231 3.296-1.231.654 1.652.242 2.873.119 3.176.77.839 1.234 1.911 1.234 3.221 0 4.61-2.807 5.624-5.479 5.92.43.371.823 1.102.823 2.222v3.293c0 .32.192.694.801.577C20.565 21.796 24 17.298 24 12 24 5.373 18.627 0 12 0z" />
+  </svg>
+  Tailwind CSS
+</div>
+
 
 ---
 
