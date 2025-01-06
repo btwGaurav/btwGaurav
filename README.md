@@ -22,7 +22,7 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=btwGaurav&theme=dark&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btwGaurav&layout=compact&theme=dark)
 <div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=btwGaurav&show_icons=true&locale=en&v=2" alt="GitHub Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=btwGaurav&show_icons=true&locale=en&v=2&layout=compact&theme=dark" alt="GitHub Stats" />
 </div>
 ---
 
