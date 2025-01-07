@@ -2,6 +2,8 @@
 
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Anshuman Singh
 
+<img src="https://komarev.com/ghpvc/?username=btwGaurav&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
+
 Welcome to my GitHub profile!  
 I'm a **passionate frontend developer** from India, exploring the world of web development as a student. I love learning, coding, and sharing my knowledge. - Checkout My Personal Website: [View WebSite](https://salvatorbygaurav.netlify.app/)
 
@@ -21,7 +23,9 @@ I'm a **passionate frontend developer** from India, exploring the world of web d
 
 ![Contributions](https://github-readme-streak-stats.herokuapp.com/?user=btwGaurav&theme=dark&count_private=true)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=btwGaurav&layout=compact&theme=dark)
-
+<div>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=btwGaurav&show_icons=true&locale=en&v=2&layout=compact&theme=dark" alt="GitHub Stats" />
+</div>
 ---
 
 ## 🏆 Achievements
