@@ -5,8 +5,8 @@
 <img src="https://komarev.com/ghpvc/?username=btwGaurav&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
 
 Welcome to my GitHub profile!  
-I am Anshuman Singh, a dedicated Full Stack Developer with a strong foundation in frontend technologies.
-In order to build robust, scalable, and dynamic web applications, I am currently expanding my expertise in backend development. 
+I am Anshuman Singh, a dedicated **Full Stack Developer** with a strong foundation in **frontend technologies.**
+In order to build robust, scalable, and dynamic web applications, I am currently expanding my expertise in **backend development**. 
 - Checkout My Personal Website: [View WebSite](https://salvatorbygaurav.netlify.app/)
 
 ---
