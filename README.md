@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ff0033&height=160&section=header&text=welcome&fontSize=80&fontColor=fff&&fontAlignY=50&desc=&descSize=20&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=ff0033&height=170&section=header&text=welcome&fontSize=80&fontColor=fff&&fontAlignY=50&desc=&descSize=10&descAlign=70)
 
 # <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi, I'm Anshuman Singh
 
