@@ -13,7 +13,7 @@ In order to build robust, scalable, and dynamic web applications, I am currently
 
 ## 🌟 About Me
 
-- 🔭 Currently learning **React** and **JavaScript**.
+- 🔭 Currently learning **Express** and **NOSQL**.
 - 💬 Ask me about **HTML**, **CSS**, and **JavaScript**.
 - 🎮 I occasionally go live on YouTube for **gaming** and **productivity** content.
 - 🌟 Fun fact: *Life isn't ideal, and if you asked me what ideal is, I wouldn't give an ideal answer.**
